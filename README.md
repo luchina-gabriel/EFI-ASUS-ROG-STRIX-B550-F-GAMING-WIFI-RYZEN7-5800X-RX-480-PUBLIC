@@ -1,5 +1,7 @@
 # Hackintosh with AMD - RYZENTOSH
 
+![Overview](https://github.com/luchina-gabriel/EFI-ASUS-ROG-STRIX-B550-F-GAMING-WIFI-RYZEN7-5800X-RX-480-PUBLIC/assets/23700365/1cfc04d8-29b1-47a7-89b0-0b5ab0c374ab)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
